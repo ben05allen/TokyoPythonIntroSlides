@@ -24,6 +24,7 @@ layout: title
 
 ---
 
+<<<<<<< HEAD
 #### And also to
 
 <br />
@@ -43,6 +44,9 @@ layout: title
 ---
 
 ## About Tokyo Python
+=======
+# About Tokyo Python
+>>>>>>> f68b557 (adding coc)
 
 #### Established in 2017 by William Touzalin 
 
@@ -61,7 +65,11 @@ Tokyo Python is a vibrant, English-speaking community for all <span v-mark.red>T
 
 ---
 
+<<<<<<< HEAD
 ## Tonight's Program
+=======
+# Programme
+>>>>>>> f68b557 (adding coc)
 
 <br />
 
@@ -85,7 +93,27 @@ Tokyo Python is a vibrant, English-speaking community for all <span v-mark.red>T
 
 ---
 
+<<<<<<< HEAD
 ## Code of Conduct
+=======
+# Code of Conduct
+
+Our meetup is dedicated to providing a harassment-free and welcoming experience for everyone. We value community participation and want everyone to feel comfortable and respected.
+
+Please help us create a positive environment by:
+- **Being <span class="text-red">Respectful</span>**: Treat all attendees, speakers, and organizers with courtesy and consideration.
+- **Being <span class="test-red">Inclusive</span>**: Welcome and be kind to everyone, regardless of their background, experience level, or identity.
+- **<span class="text-red">Communicating Thoughtfully</span>**: Use welcoming and inclusive language. Be mindful of differing viewpoints.
+- **<span class="text-red">Avoid Harassment</span>**: Harassment in any form will not be tolerated. This includes offensive comments, discrimination, intimidation, or unwelcome attention.
+
+If you experience or witness any behavior that violates this code, please inform an organiser immediately.
+
+**We reserve the right to take appropriate action, including expulsion from the meetup, in response to any violations.**
+
+---
+
+# PythonAsia 2026
+>>>>>>> f68b557 (adding coc)
 
 Our meetup is dedicated to providing a harassment-free and welcoming experience for everyone. We value community participation and want everyone to feel comfortable and respected.
 
