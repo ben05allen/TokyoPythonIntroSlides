@@ -80,8 +80,9 @@ If you experience or witness any behavior that violates this code, please inform
 
 ## PythonAsia 2026
 
-#### March 21 to 23
-#### De La Salle University, Manila
+**When:** March 21st to 23rd.
+
+**Where:** De La Salle University, Manila.
 
 <br />
 
