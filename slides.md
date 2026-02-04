@@ -93,7 +93,9 @@ If you experience or witness any behavior that violates this code, please inform
 
 ---
 
-## Would you like to be a Tokyo Python Speaker?
+## Would you like to speak?
+
+We welcome speakers on Python related topics.  
 
 <img
     class="mx-auto w-3/5"
