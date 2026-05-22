@@ -84,7 +84,7 @@ Tokyo Python is a vibrant, English-speaking community for all <span v-mark.red>T
 
 #### 8:20 - 🐍 Networking
 
-#### 9:00 - 🚊 Close
+#### 9:00 - ☔ Close
 
 ---
 
@@ -104,7 +104,7 @@ If you experience or witness any behavior that violates this code, please inform
 
 ---
 
-## PythonAsia 2026
+## PyCon JP 2026
 
 **When:** August 21st to 23rd.
 
