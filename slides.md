@@ -9,7 +9,7 @@ layout: title
 ---
 
 # Tokyo Python
-### Lightning Talks 2026
+### Side Project Showcase
 
 ---
 
@@ -24,18 +24,7 @@ layout: title
 
 ---
 
-#### And, thanks to
-
-<br />
-
-<img
-    class="mx-auto w-1/2"
-    src="/KaiMail.png"
-/>
-
----
-
-#### And, huge thanks to
+#### And also to
 
 <br />
 
@@ -72,19 +61,27 @@ Tokyo Python is a vibrant, English-speaking community for all <span v-mark.red>T
 
 ---
 
-## Programme
+## Tonight's Program
 
 <br />
 
-#### 7:00 - 🤗 Open
+##### **7:00** - Opening
 
-#### 7:30 - 🎤 Welcome
+##### **7:15** - Welcome
 
-#### 7:40 - ⚡️ Lightning Talks
+##### **7:20** - One minute project introductions
 
-#### 8:20 - 🐍 Networking
+##### **7:30** - Round One
 
-#### 9:00 - ☔ Close
+##### **7:50** - Round Two
+
+##### **8:10** - Round Three
+
+##### **8:30** - One minute wrap up
+
+##### **8:40** - Networking 
+
+##### **9:00** - Closing
 
 ---
 
