@@ -9,7 +9,8 @@ layout: title
 ---
 
 # Tokyo Python
-### Rust in Python
+
+### Good Vibes
 
 ---
 
@@ -24,21 +25,38 @@ layout: title
 
 ---
 
+#### And, thanks to
+
+<br />
+
+<img
+    class="mx-auto w-3/5"
+    src="/TokyoDev.jpg"
+/>
+
+<br />
+
+<img
+    class="mx-auto w-3/5"
+    src="/KaiMail.png"
+/>
+
+---
+
 ## About Tokyo Python
 
-#### Established in 2017 by William Touzalin 
+#### Established in 2017 by William Touzalin
 
-Tokyo Python is a vibrant, English speaking community <span v-mark.red>for all</span> Tokyo Pythonistas, regardless of experience level, field, or background.
+Tokyo Python is a vibrant, English speaking community Tokyo Pythonistas of all levels of experience, fields, and backgrounds.
 
-- New Website: https://tokyopython.com
-- Discord:  https://discord.gg/hQu7X6hd
+- Website: https://tokyopython.org
+- Discord: https://discord.gg/jwkuCtEsM
 - Meetup.com: https://www.meetup.com/tokyopython
-- New LinkedIn Page: https://www.linkedin.com/company/tokyo-python/
-- New Slidev Theme: tokyo-python
+- LinkedIn Page: https://www.linkedin.com/company/tokyo-python/
 
 <img
     class="absolute bottom-20 right-20 w-40 opacity-95"
-    src="/Discord-QR.webp"
+    src="/QR-discord.png"
     alt=""
 />
 
@@ -50,11 +68,9 @@ Tokyo Python is a vibrant, English speaking community <span v-mark.red>for all</
 
 #### 7:00 - 🤗 Open
 
-#### 7:30 - 🙋 Welcome
+#### 7:15 - 🎤 Building Startup Hero with Pyxel and AI (Eugene Kim)
 
-#### 7:35 - 🎤 Supercharging Python with Rust (Ben Allen)
-
-#### 8:00 - 🎤 Why Rust + Python? (Brandon Pollack - Tokyo Rust) 
+#### 7:50 - 🎤 Marimo: A Next-Generation Python Notebook, with Claude Code (Tokuro Hata)
 
 #### 8:30 - 🤝 Networking
 
@@ -67,10 +83,11 @@ Tokyo Python is a vibrant, English speaking community <span v-mark.red>for all</
 Our meetup is dedicated to providing a harassment-free and welcoming experience for everyone. We value community participation and want everyone to feel comfortable and respected.
 
 Please help us create a positive environment by:
+
 - **Being <span class="text-red">Respectful</span>**: Treat all attendees, speakers, and organizers with courtesy and consideration.
 - **Being <span class="test-red">Inclusive</span>**: Welcome and be kind to everyone, regardless of their background, experience level, or identity.
 - **<span class="text-red">Communicating Thoughtfully</span>**: Use welcoming and inclusive language. Be mindful of differing viewpoints.
-- **<span class="text-red">Avoid Harassment</span>**: Harassment in any form will not be tolerated. This includes offensive comments, discrimination, intimidation, or unwelcome attention.
+- **<span class="text-red">Avoiding Harassment</span>**: Harassment in any form will not be tolerated. This includes offensive comments, discrimination, intimidation, or unwelcome attention.
 
 If you experience or witness any behavior that violates this code, please inform an organiser immediately.
 
@@ -78,29 +95,24 @@ If you experience or witness any behavior that violates this code, please inform
 
 ---
 
-## PythonAsia 2026
+## PyCon mini Tokyo with PythonAsia
 
-**When:** March 21st to 23rd.
+**When:** December 12th
 
-**Where:** De La Salle University, Manila.
+**Where:** GMO Internet Group, Shibuya
+
+**Link:** [https://pyconjp.connpass.com/event/404336](https://pyconjp.connpass.com/event/404336)
 
 <br />
 
 <img
-    class="mx-auto w-4/5 rounded-lg shadow-md"
-    src="/PythonAsia2026.webp"
+    class="absolute bottom left-20 w-3/5 rounded-lg shadow-md"
+    src="/PyConJPmini.webp"
     alt="Pomotional Image for PythonAsia 2026"
 />
 
----
-
-## Would you like to speak?
-
-We welcome speakers on Python related topics.  
-
 <img
-    class="mx-auto w-3/5"
-    src="/CallForSpeakers.jpg"
-    alt="Image Calling for Tokyo Python Speakers"
+    class="absolute bottom-20 right-20 w-40 rounded-lg opacity-95"
+    src="/QR-pycon-mini.png"
+    alt=""
 />
-
