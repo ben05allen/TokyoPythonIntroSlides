@@ -95,6 +95,20 @@ If you experience or witness any behavior that violates this code, please inform
 
 ---
 
+## Translation Service
+
+Tonight we'll be trialling Prashant's translation service app.
+
+- **URL:** https://nihongo.tokyopython.com
+
+<img
+    class="absolute bottom-20 right-20 w-40 rounded-lg opacity-95"
+    src="/QR-translation-app.png"
+    alt=""
+/>
+
+---
+
 ## PyCon mini Tokyo with PythonAsia
 
 **When:** December 12th
