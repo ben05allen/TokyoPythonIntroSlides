@@ -37,7 +37,7 @@ layout: title
 <br />
 
 <img
-    class="mx-auto w-3/5"
+    class="mx-auto w-1/2"
     src="/KaiMail.png"
 />
 
@@ -76,6 +76,17 @@ Tokyo Python is a vibrant, English speaking community Tokyo Pythonistas of all l
 
 #### 9:00 - 🙏 Close
 
+<br />
+
+Tonight we'll be trialling Prashant's translation service app.
+
+- **URL:** https://nihongo.tokyopython.com
+
+<img
+    class="absolute bottom-20 right-20 w-40 rounded-lg opacity-95"
+    src="/QR-translation-app.png"
+    alt=""
+/>
 ---
 
 ## Code of Conduct
@@ -92,20 +103,6 @@ Please help us create a positive environment by:
 If you experience or witness any behavior that violates this code, please inform an organiser immediately.
 
 **We reserve the right to take appropriate action, including expulsion from the meetup, in response to any violations.**
-
----
-
-## Translation Service
-
-Tonight we'll be trialling Prashant's translation service app.
-
-- **URL:** https://nihongo.tokyopython.com
-
-<img
-    class="absolute bottom-20 right-20 w-40 rounded-lg opacity-95"
-    src="/QR-translation-app.png"
-    alt=""
-/>
 
 ---
 
@@ -128,5 +125,27 @@ Tonight we'll be trialling Prashant's translation service app.
 <img
     class="absolute bottom-20 right-20 w-40 rounded-lg opacity-95"
     src="/QR-pycon-mini.png"
-    alt=""
+    alt="QR code for PyCon mini Tokyo with PythonAsia"
+/>
+
+---
+
+## With Airflow and Magpie - Round the World in 80 Dags
+
+**When:** Monday, November 16th
+
+**Where:** Le Wagon, Meguro
+
+**Link:** https://www.meetup.com/tokyopython/events/317056429
+
+<img
+    class="absolute bottom-20 right-30 w-1/3 rounded-lg opacity-95"
+    src="/airflow_meetup.webp"
+    alt="Pomotional Image for Jarek Potiuk's Airflow Meetup"
+/>
+
+<img
+    class="absolute bottom-20 left-10 w-40 rounded-lg opacity-95"
+    src="/QR_airflow_meetup.png"
+    alt="QR code for the Airflow Meetup"
 />
