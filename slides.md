@@ -19,8 +19,8 @@ layout: title
 <br />
 
 <img
-    class="mx-auto w-3/5"
-    src="/LeWagon.webp"
+    class="mx-auto w-4/5"
+    src="/le_wagon.webp"
 />
 
 ---
